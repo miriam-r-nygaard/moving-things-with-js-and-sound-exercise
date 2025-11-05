@@ -61,7 +61,7 @@ function playGameOverSound() {
 //her definere jeg const dodger igen
 const dodger = document.getElementById("dodger");
 //ændre dodger farve til pink
-dodger.style.backgroundColor = "#FF69B4";
+//dodger.style.backgroundColor = "#FF69B4";
 //denne funktion beder dogder om at rykke til venstre
 function moveDodgerLeft() {
   const leftNumbers = dodger.style.left.replace("px", "");

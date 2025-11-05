@@ -1,6 +1,10 @@
+/* jeg har indsat pacman som doger*/
 #dodger {
-  background-color: white;
-  height: 20px;
+  background-image: url(../img/pacman.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 40px;
   position: absolute;
   width: 40px;
 }
